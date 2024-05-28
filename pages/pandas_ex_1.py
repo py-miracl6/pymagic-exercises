@@ -11,7 +11,6 @@ st.markdown(
     "- Вам дан датасет **hr-analysis-prediction.csv**\n"
     "- Импортируйте pandas и напишите краткий алиас **pd**\n"
     "- Прочитайте датасет `hr-analysis-prediction.csv` из папки `data` и запишите его в виде DataFrame в переменную **df**\n"
-    "- Представьте, что датасет лежит в той же папке, что и ваш код."
 )
 
 data_check = pd.read_csv("data/hr-analysis-prediction.csv")
