@@ -22,7 +22,7 @@ data_check_map.Education = data_check_map.Education.map(dict_education_check)
 st.markdown(
     "- Вам дан датасет `hr-analysis-prediction.csv`\n"
     "- Импортируйте pandas и напишите краткий алиас **pd**\n"
-    "- Прочитайте датасет hr-analysis-prediction.csv и запишите его в виде DataFrame в переменную **df**\n"
+    "- Прочитайте датасет `hr-analysis-prediction.csv` из папки `data` и запишите его в виде DataFrame в переменную **df**\n"
     "- Представьте, что датасет лежит в той же папке, что и ваш код\n"
     "- Создайте переменную **dict_education**, куда запишите словарь (ключ тип int, значение тип str) с соответвующими значениями признака **Education**:\n"
     "   - **1** соответсвует значению **Below College**\n"
