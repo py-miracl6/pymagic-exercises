@@ -11,7 +11,7 @@ hide_streamlit_style = """
     footer {visibility: hidden;}
     </style>"""
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
-st.subheader("HW2. Блок Python. Задача 1")
+st.subheader("HW4. Блок Python. Задача 1")
 st.markdown(
     "- Создайте функцию и назовите ее **summation**. На вход она должна принимать два параметра **value_1** и **value_2** (может быть как тип int, так и float для каждого)\n"
     "- Функция должна возвращать результат суммы двух значений (return), которые поданы на вход функции\n"

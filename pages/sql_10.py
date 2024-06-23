@@ -8,7 +8,7 @@ import logging
 
 
 hide_part_of_page()
-st.subheader("HW3. Блок SQL. Задача 10")
+st.subheader("HW5. Блок SQL. Задача 10")
 st.markdown(
     "- Найдите **количество уникальных сотрудников** в каждом **департаменте** в разрезе **должности**\n"
     "   - У вас должны получится следующие поля: dept_name, title, count_emp\n"

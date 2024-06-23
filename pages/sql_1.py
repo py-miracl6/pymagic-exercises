@@ -8,7 +8,7 @@ import logging
 
 hide_part_of_page()
 
-st.subheader("HW3. Блок SQL. Задача 1")
+st.subheader("HW5. Блок SQL. Задача 1")
 st.markdown(
     "- Выведите первые 10 строк из таблицы **dept_emp**\n"
     "\n**Примечание**: вам уже даны таблицы, их импортировать не нужно, также можно выводить\n"

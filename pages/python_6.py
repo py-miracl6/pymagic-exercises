@@ -5,7 +5,7 @@ from utils.help_func import stdoutIO, hide_part_of_page
 
 
 hide_part_of_page()
-st.subheader("HW2. Блок Python. Задача 2")
+st.subheader("HW4. Блок Python. Задача 2")
 st.markdown(
     "- Создайте функцию с *неизвестным количеством неименованных аргументов* и назовите ее **adding_str_values**, в качестве названия неименнованных аргументов примите **args**\n"
     "- Неименованные аргументы могут быть любого типа (подсказка Any)\n"

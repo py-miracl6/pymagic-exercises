@@ -5,7 +5,7 @@ import numpy as np
 
 
 hide_part_of_page()
-st.subheader("HW7. Блок Numpy. Задача 5")
+st.subheader("HW9. Блок Numpy. Задача 5")
 st.markdown(
     "- Вам дана матрица **X_matrix** ниже (скопируйте код и вставьте в code editor)\n"
     "- Необходимо вычислить собственные векторы и собственные значения матрицы **X_matrix** при помощи numpy:\n"

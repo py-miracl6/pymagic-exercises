@@ -7,7 +7,7 @@ import logging
 
 hide_part_of_page()
 
-st.subheader("HW3. Блок SQL. Задача 2")
+st.subheader("HW5. Блок SQL. Задача 2")
 st.markdown(
     "- Найдите всех сотрудников из таблицы **employees** по имени **Georgi**\n"
     "- Выведите первые 5 строк (вывести все поля из таблицы employees)\n"

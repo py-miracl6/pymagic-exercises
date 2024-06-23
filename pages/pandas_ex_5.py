@@ -6,7 +6,7 @@ import numpy as np
 
 
 hide_part_of_page()
-st.subheader("HW9. Блок Pandas. Задача 5")
+st.subheader("HW11. Блок Pandas. Задача 5")
 
 df = pd.read_csv("data/hr-analysis-prediction.csv")
 data_check = pd.read_csv("data/hr-analysis-prediction.csv")

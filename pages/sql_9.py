@@ -7,7 +7,7 @@ import logging
 
 
 hide_part_of_page()
-st.subheader("HW3. Блок SQL. Задача 9")
+st.subheader("HW5. Блок SQL. Задача 9")
 st.markdown(
     "- Вывести первые 10 строк со следующей информацией о сотрудниках:\n"
     "   - id сотрудника - emp_no\n"

@@ -7,7 +7,7 @@ import logging
 
 
 hide_part_of_page()
-st.subheader("HW3. Блок SQL. Задача 6")
+st.subheader("HW5. Блок SQL. Задача 6")
 st.markdown(
     "- Найдите **вторую по счету максимальную зарплату среди менеджеров** при помощи **LIMIT**\n"
     "- Поле с максимальной зарплатой назовите **max_salary**\n"

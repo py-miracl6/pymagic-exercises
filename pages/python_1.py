@@ -6,7 +6,7 @@ from utils.help_func import stdoutIO, hide_part_of_page
 # from io import StringIO
 
 hide_part_of_page()
-st.subheader("HW1. Блок Python. Задача 1")
+st.subheader("HW5. Блок Python. Задача 1")
 st.markdown(
     "- Создайте переменную **x** и присвойте ей значение равное 6\n"
     "- Создайте переменную **y** и присвойте ей значение равное 2.5\n"

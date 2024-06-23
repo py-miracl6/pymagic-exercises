@@ -6,7 +6,7 @@ import inspect
 
 
 hide_part_of_page()
-st.subheader("HW2. Блок Python. Задача 4")
+st.subheader("HW4. Блок Python. Задача 4")
 st.markdown(
     "- <span style='color:red;'>**СКОПИРУЙТЕ ИТОГОВОЕ РЕШЕНИЕ ДЛЯ СЛЕДУЮЩЕГО ЗАДАНИЯ**</span>\n"
     "- Пусть класс **Number** вам уже дан со всеми атрибутами (из прошлого задания), заново его определять не нужно\n"

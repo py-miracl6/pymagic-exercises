@@ -4,7 +4,7 @@ from utils.help_func import stdoutIO, hide_part_of_page
 
 hide_part_of_page()
 
-st.subheader("HW1. Блок Python. Задача 0")
+st.subheader("HW5. Блок Python. Задача 0")
 st.markdown(
     "- Создайте переменную **x** и присвойте ей значение равное 3\n"
     "- Создайте переменную **y** и присвойте ей значение равное 1.1\n"

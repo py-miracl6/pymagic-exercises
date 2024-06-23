@@ -6,7 +6,7 @@ from scipy import spatial
 
 
 hide_part_of_page()
-st.subheader("HW7. Блок Numpy. Задача 6")
+st.subheader("HW9. Блок Numpy. Задача 6")
 st.markdown(
     "- Вам даны два вектора **a** и **b** ниже (скопируйте код и вставьте в code editor)\n"
     "- Создайте переменную **similarity** и присвойте значение косинуса угла между векторами **a** и **b** (можно использовать scipy)\n"

@@ -5,7 +5,7 @@ import pandas as pd
 
 
 hide_part_of_page()
-st.subheader("HW9. Блок Pandas. Задача 9")
+st.subheader("HW11. Блок Pandas. Задача 9")
 
 df = pd.read_csv("data/hr-analysis-prediction.csv")
 df1 = df[["Age", "Department", "EducationField", "DailyRate"]]

@@ -5,7 +5,7 @@ import pandas as pd
 
 
 hide_part_of_page()
-st.subheader("HW9. Блок Pandas. Задача 2")
+st.subheader("HW11. Блок Pandas. Задача 2")
 
 st.markdown(
     "- Вам дан датасет `hr-analysis-prediction.csv`\n"
