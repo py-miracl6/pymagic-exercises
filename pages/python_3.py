@@ -4,7 +4,7 @@ from utils.help_func import stdoutIO, hide_part_of_page
 
 
 hide_part_of_page()
-st.subheader("HW5. Блок Python. Задача 3")
+st.subheader("HW3. Блок Python. Задача 3")
 st.markdown(
     "- Создайте переменную **value** и присвойте ей список, включающий три любых значения\n"
     "- Добавьте в конец списка строку **'это строка'**"
