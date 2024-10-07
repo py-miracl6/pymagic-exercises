@@ -11,7 +11,7 @@ st.markdown(
     "- Неименованные аргументы могут быть любого типа (подсказка Any)\n"
     "- Если аргумент типа **str**, то необходимо внутри функции реализовать добавление его в список (подсказка List comprehension)\n"
     "- Функция должна возвращать **итоговый список** со всеми аргументами типа str\n"
-    "- Не забывайте про **DOCSTRING**, а также **TYPE HINTS**\n"
+    "- Не забывайте про **TYPE HINTS**\n"
     "- Создайте переменную **result** и присвойте ей вызов функции **adding_str_values**, подав следующие значения:"
 )
 st.code('"строка", 1, 3.5, "значение", True, {1: 45, 9: [1, 3]}', language="python")
@@ -61,10 +61,6 @@ if content:
                 List[str],
                 list[str],
             ], "Проверьте тип type hints для возвращаемого значения"
-            assert isinstance(
-                loc["adding_str_values"].__doc__, str
-            ), "Напишите docstring для функции"
-
             assert "result" in loc.keys(), "Проверьте переменную result"
             assert (
                 loc["adding_str_values"]("строка", 1, 3.5) == result_check_two
